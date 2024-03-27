@@ -1,0 +1,163 @@
+.welcome{
+    color: #6696ff;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+/* paragraph */
+
+.para{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+/* images */
+.location{
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+    width: 100px;
+}
+
+.temple{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.temple h5{
+    margin-top: 15px;
+}
+
+.mountain{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.mountain h5{
+    margin-top: 15px;
+}
+
+.sea{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.sea h5{
+    margin-top: 15px;
+}
+
+.gate{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.gate h5{
+    margin-top: 15px;
+}
+
+/* registration */
+
+.reg h1{
+    text-align: center;
+    color: #ff3333;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Protest Strike', sans-serif;
+}
+
+/* form */
+.form input[type="text"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+}
+
+.form input[type="telephone"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+
+}
+
+.form input[type="email"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+
+}
+.form input[tpye="text"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+}
+.form input[type=submit]{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer; 
+}
+
+/* aboutsection */
+.about{
+    color:red;
+}
+/* about paragraph */
+
+.paragraph{
+    font-size: 20px;
+    font-weight: lighter;
+    padding-left: 100px; 
+}
+/* website information */
+#cont{
+    color: red;
+}
+.contactinformation{
+    padding-left: 100px;
+}
+/* signin butttion */
+.img .log{
+    position: absolute;
+    top: 8%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: grey;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+   
+}
+.img .log:hover{
+    background-color: blue;
+}
+

@@ -1,0 +1,64 @@
+/* loginhtmlpage */
+
+.wel{
+    padding-left: 800px;
+    padding-top: 50px;
+    font-size: 50px;
+    color: blueviolet;
+}
+
+.signin{
+    padding-left: 850px;   
+}
+
+.signin input[type="text"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+}
+.signin input[type="email"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+}
+
+.signin input[type="password"]{
+    width: 250px;
+    height: 30px;
+    border-radius: 15px;
+    border: 100px bold blue;
+    font-weight: bold;
+}
+
+.signin input[type=submit]{
+    width: 150px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer; 
+}
+
+#account{
+    padding-left: 850px;
+    color: red;
+    font-weight: bold;
+}
+.btn{
+    padding-left: 900px;
+}
+
+.btn button[type="button"]{
+    width: 75px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer; 
+}
